@@ -63,4 +63,5 @@ ul {
   display: flex;
   margin: 8px;
   gap: 16px;
+  align-items: center;
 }
